@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Desktop\RotatingCube\bin\Debug\RotatingCube.exe.config
+C:\Users\MONSTERMC\Desktop\RotatingCube\bin\Debug\RotatingCube.exe
+C:\Users\MONSTERMC\Desktop\RotatingCube\bin\Debug\RotatingCube.pdb
+C:\Users\MONSTERMC\Desktop\RotatingCube\bin\Debug\RotatingCube.xml
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.vbprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.Main.resources
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.Resources.resources
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.exe
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.xml
+C:\Users\MONSTERMC\Desktop\RotatingCube\obj\x86\Debug\RotatingCube.pdb
